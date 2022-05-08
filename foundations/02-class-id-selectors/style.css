@@ -1,0 +1,22 @@
+/* style.css */
+
+.ps {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#One {
+    color: blue;
+    font-size: 36px;
+}
+
+.ps1 {
+    font-size: 36px;
+}
+
+#Two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
